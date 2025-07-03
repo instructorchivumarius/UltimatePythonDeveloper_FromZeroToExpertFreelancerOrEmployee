@@ -4,11 +4,11 @@
 message = "Hello, world!"
 print(message)
 
-#String with single quotes
+# String with single quotes
 another_message = 'Python is awesome!'
 print(another_message)
 
-#  Multiline strings (triple quotes)
+# Multiline strings (triple quotes)
 long_text = """This is
 a string
 across multiple lines."""
@@ -30,4 +30,3 @@ print(message.lower())     # lowercase
 print(len(message))        # string length
 print("world" in message)  # content check
 print(message.replace("Hello", "Hi"))
-
