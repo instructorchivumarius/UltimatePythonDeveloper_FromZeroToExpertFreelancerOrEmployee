@@ -20,4 +20,4 @@ for day in weekdays:
     print("Day:", day)
 
 # Tuples are immutable – you can't change them
-# weekdays[0] = "Sunday"  # => will raise an error
+# weekdays[0] = "Sunday"  # Will raise an Error: TypeError: 'tuple' object does not support item assignment 
