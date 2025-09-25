@@ -1,4 +1,4 @@
-# Data types: Tuples in Python
+# Collections/ Data Types: Tuples in Python
 
 # Creating a tuple
 weekdays = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")

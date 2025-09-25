@@ -1,4 +1,4 @@
-# Data types: Dictionaries in Python
+# Collections/ Data Types: Dictionaries in Python
 
 # Creating a dictionary
 student = {

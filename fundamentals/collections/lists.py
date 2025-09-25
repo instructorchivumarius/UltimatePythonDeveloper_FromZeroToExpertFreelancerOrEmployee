@@ -1,4 +1,4 @@
-# Data types: Lists in Python
+# Collections/ Data Types: Lists in Python
 
 # Creating a list
 fruits = ["apples", "bananas", "pears"]

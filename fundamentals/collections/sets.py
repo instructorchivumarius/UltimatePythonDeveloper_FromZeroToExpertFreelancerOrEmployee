@@ -1,4 +1,4 @@
-# Data types: Sets in Python
+# Collections/ Data Types: Sets in Python
 
 # Creating a set (no duplicates, no order)
 fruits = {"apple", "banana", "orange", "apple"}
