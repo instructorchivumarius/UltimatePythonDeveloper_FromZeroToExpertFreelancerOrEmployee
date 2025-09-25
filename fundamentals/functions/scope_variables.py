@@ -1,4 +1,4 @@
-# Scope: Local vs Global Variables in Python (2025)
+# Scope: Local vs Global Variables in Python 
 
 # (1) GLOBAL VARIABLE
 message = "I am global"

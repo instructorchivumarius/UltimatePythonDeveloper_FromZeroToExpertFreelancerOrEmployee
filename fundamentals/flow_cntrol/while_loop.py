@@ -1,4 +1,4 @@
-# While Loops in Python (2025)
+# While Loops in Python 
 
 # ───────────────────────────────
 # (1) BASIC WHILE LOOP

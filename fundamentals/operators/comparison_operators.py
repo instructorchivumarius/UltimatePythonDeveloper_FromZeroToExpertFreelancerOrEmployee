@@ -1,4 +1,4 @@
-# Comparison Operators in Python (2025)
+# Comparison Operators in Python 
 
 # ───────────────────────────────
 # (1) SETUP: integers and strings

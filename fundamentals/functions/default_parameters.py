@@ -1,4 +1,4 @@
-# Default and Optional Parameters in Python (2025)
+# Default and Optional Parameters in Python 
 
 # (1) FUNCTION WITH DEFAULT PARAMETER
 def greet_user(name="Guest"):

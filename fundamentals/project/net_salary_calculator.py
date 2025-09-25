@@ -1,4 +1,4 @@
-# Project: Net Salary Calculator (2025)
+# Project: Net Salary Calculator 
 
 # (1) DEFINE VARIABLES
 gross_salary = 5000

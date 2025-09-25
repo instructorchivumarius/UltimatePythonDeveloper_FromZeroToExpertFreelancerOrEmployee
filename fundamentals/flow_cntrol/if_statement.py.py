@@ -1,4 +1,4 @@
-# If Statements in Python (2025)
+# If Statements in Python 
 
 # ───────────────────────────────
 # (1) BASIC IF STATEMENT

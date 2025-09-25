@@ -1,4 +1,4 @@
-# Membership Operators in Python (2025)
+# Membership Operators in Python 
 
 # ───────────────────────────────
 # (1) SETUP

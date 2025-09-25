@@ -1,4 +1,4 @@
-# Operators on Lists in Python (2025)
+# Operators on Lists in Python 
 
 # ───────────────────────────────
 # (1) SETUP: sample lists

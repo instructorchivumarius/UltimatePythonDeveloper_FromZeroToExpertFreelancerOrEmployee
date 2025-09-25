@@ -1,4 +1,4 @@
-# Lambda (Anonymous) Functions in Python (2025)
+# Lambda (Anonymous) Functions in Python 
 
 # (1) SIMPLE LAMBDA FUNCTION
 square = lambda x: x * x

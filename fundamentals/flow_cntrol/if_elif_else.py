@@ -1,4 +1,4 @@
-# If – Elif – Else in Python (2025)
+# If – Elif – Else in Python 
 
 # ───────────────────────────────
 # (1) IF – ELIF – ELSE with numbers

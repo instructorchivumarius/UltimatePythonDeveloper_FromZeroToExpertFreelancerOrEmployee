@@ -1,4 +1,4 @@
-# If – Else in Python (2025)
+# If – Else in Python 
 
 # ───────────────────────────────
 # (1) BASIC IF – ELSE

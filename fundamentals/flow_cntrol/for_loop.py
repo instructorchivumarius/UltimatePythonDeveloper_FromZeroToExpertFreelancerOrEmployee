@@ -1,4 +1,4 @@
-# For Loops in Python (2025)
+# For Loops in Python 
 
 # ───────────────────────────────
 # (1) FOR LOOP with LIST

@@ -1,4 +1,4 @@
-# Walrus Operator (:=) in Python (2025)
+# Walrus Operator (:=) in Python 
 
 # ───────────────────────────────
 # (1) BASIC USAGE

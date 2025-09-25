@@ -1,4 +1,4 @@
-# Defining and Calling Simple Functions in Python (2025)
+# Defining and Calling Simple Functions in Python 
 
 # (1) SIMPLE FUNCTION WITHOUT PARAMETERS
 def greet():

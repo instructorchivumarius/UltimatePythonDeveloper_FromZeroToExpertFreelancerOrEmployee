@@ -1,4 +1,4 @@
-# Built-in Functions in Python (2025)
+# Built-in Functions in Python 
 
 # (1) USING len() TO COUNT CHARACTERS
 message = "Python"

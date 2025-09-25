@@ -1,4 +1,4 @@
-# Identity Operators in Python (2025)
+# Identity Operators in Python 
 
 # ───────────────────────────────
 # (1) SETUP: lists and variables

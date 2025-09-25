@@ -1,4 +1,4 @@
-# Bitwise Operators in Python (2025)
+# Bitwise Operators in Python 
 
 # ───────────────────────────────
 # (1) SETUP

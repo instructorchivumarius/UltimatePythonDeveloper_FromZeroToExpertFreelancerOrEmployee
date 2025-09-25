@@ -1,4 +1,4 @@
-# range() and enumerate() in Python (2025)
+# range() and enumerate() in Python 
 
 # ───────────────────────────────
 # (1) range() in a FOR loop

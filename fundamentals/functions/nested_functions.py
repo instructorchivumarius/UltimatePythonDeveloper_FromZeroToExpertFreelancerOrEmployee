@@ -1,4 +1,4 @@
-# Nested Functions in Python (2025)
+# Nested Functions in Python 
 
 # (1) FUNCTION WITH A NESTED FUNCTION
 def outer_function():

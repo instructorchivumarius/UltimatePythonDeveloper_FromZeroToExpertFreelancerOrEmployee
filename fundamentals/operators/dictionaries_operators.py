@@ -1,4 +1,4 @@
-# Operators on Dictionaries in Python (2025)
+# Operators on Dictionaries in Python 
 
 # ───────────────────────────────
 # (1) SETUP: sample dictionaries

@@ -1,4 +1,4 @@
-# Logical Operators in Python (2025)
+# Logical Operators in Python 
 
 # ───────────────────────────────
 # (1) SETUP: Boolean values
